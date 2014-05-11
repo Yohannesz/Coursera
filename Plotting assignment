@@ -2,10 +2,7 @@ git init
 $ git init
 $ git add.
 $ git commit -m 
-
 $ git remote add origion <https://github.com/Yohannesz/Coursera.git>
-
 $ git remote -v
-
 $ git push origion master
 
